@@ -1,0 +1,7 @@
+Usage:
+python main.py <option> <term>
+
+Available options:
+    - get
+    - find
+    - propse
